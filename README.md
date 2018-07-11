@@ -1,5 +1,5 @@
 ## AVL Tree
-Minimalist implementation of [AVL Tree]([https://en.wikipedia.org/wiki/AVL_tree) written in C.
+Minimalist implementation of [AVL Tree](https://en.wikipedia.org/wiki/AVL_tree) written in C.
 
 ## How to use it
 
