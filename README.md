@@ -4,11 +4,12 @@ Minimalist implementation of [AVL Tree]([https://en.wikipedia.org/wiki/AVL_tree)
 ## How to use it
 
 Here is an example on how to use this library. 
+
 For convenience is just a header file. Include it in your project and you'd 
 be ready to roll.
 
 
-```
+``` C
 #include <stdio.h>
 #include <stdlib.h>
 #include "./avltree.h"
