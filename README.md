@@ -1,7 +1,8 @@
 ## How to use it
 
-Here is an example on how to use this library. For convenience is just a 
-header file.
+Here is an example on how to use this library. 
+For convenience is just a header file. Include it in your project and you'd 
+be ready to roll.
 
 
 ```
